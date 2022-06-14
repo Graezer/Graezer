@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Geza Steinert - "@Graezer". I am a Fullstack Developer and Actor.
-- 👀 I’m interested in a lot. Like Coding, Sports (Volleyball and Tabletennis), Musics, Games (CS GO, SC2) Painting, Drawing, Art, Dance, Acting and so on.
-- 🌱 I’m currently solidifiing Ruby and JS.
-- 💞️ I’m looking to collaborate on some of my hobbies, nice projects. Just write me.
-- 📫 Stay in touch over linkedin or Instagram.
-
 <h1 align="center">Hi 👋, I'm Geza</h1>
 <h3 align="center">A passionate frontend developer from Berlin</h3>
 
