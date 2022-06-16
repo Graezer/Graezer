@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 It's me - Geza</h1>
-<h3 align="center">A passionate frontend developer from Berlin</h3>
+<h3 align="center">A motivated frontend and backend developer from Berlin</h3>
 
 - 🌱 I’m currently learning **React, JS**
 
