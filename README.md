@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋 It's me - Geza</h1>
 <h3 align="center">A motivated frontend and backend developer from Berlin</h3>
 
-- 🌱 I’m currently learning **React, JS**
-
-- 👨‍💻 All of my projects are available at [geza-steinert](geza-steinert)
+- 🌱 I’m currently learning **React (and JS)**
 
 - 📫 How to reach me **gwasteinert@gmail.com**
 
