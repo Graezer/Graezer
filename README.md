@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 It's me - Geza</h1>
 <h3 align="center">Frontend developer from Berlin</h3>
 
-- 🌱 I’m currently learning **React (and JS)**
+- 🌱 I’m currently learning: **React (and JS)**
 
 - ⚡ Fun fact: **I am an actor**
 
-- 📫 How to reach me **gwasteinert@gmail.com** or
+- 📫 How to reach me: **gwasteinert@gmail.com** or
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
