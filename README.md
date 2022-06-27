@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React (and JS)**
 
-- 📫 How to reach me **gwasteinert@gmail.com**
+- ⚡ Fun fact: **I am an actor**
 
-- ⚡ Fun fact **I am an actor**
+- 📫 How to reach me **gwasteinert@gmail.com** or
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
