@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 It's me - Geza</h1>
-<h3 align="center">Frontend developer from Berlin</h3>
+<h3 align="center">Web Dev from Berlin</h3>
 
 - 🌱 I’m currently learning: **React (and JS)**
 
