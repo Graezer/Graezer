@@ -2,6 +2,7 @@
 <h3 align="center">Web Dev from Berlin</h3>
 
 - 🌱 I’m currently learning:  **React (and JS)**
+  doing CodeAcademy, JS30 and Hackathon
 
 - ⚡ Fun fact:  **I am an actor**
 
