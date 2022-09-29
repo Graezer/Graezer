@@ -6,6 +6,9 @@
 
 - ⚡ Fun fact:  **I am an actor**
 
+- ✨ Visit my <a href="https://github.com/Graezer" target="blank"><img align="center" alt="geza steinert" height="30" width="40" />
+ Homepage  </a>
+
 - 📫 How to reach me:  **gwasteinert@gmail.com** or
 
 <h3 align="left">Connect with me:</h3>
